@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1671729698 source:c:\users\shahap\desktop\project\project\main.c
+	"proj.h"
+
+1671729931 c:\users\shahap\desktop\project\project\proj.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1671730018 source:c:\users\shahap\desktop\project\project\proj.c
+	"proj.h"
+
+1671729700 source:c:\users\shehap\desktop\project\project\main.c
+	"proj.h"
+
+1672064051 c:\users\shehap\desktop\project\project\proj.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1671730020 source:c:\users\shehap\desktop\project\project\proj.c
+	"proj.h"
+
+1672064264 source:c:\users\shahap\desktop\test_project\project\main.c
+	"proj.h"
+
+1672064240 c:\users\shahap\desktop\test_project\project\proj.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1672067339 source:c:\users\shahap\desktop\test_project\project\proj.c
+	"proj.h"
+
+1672064264 source:c:\users\ahmed\desktop\final_project\project\main.c
+	"proj.h"
+
+1672064240 c:\users\ahmed\desktop\final_project\project\proj.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1672067420 source:c:\users\ahmed\desktop\final_project\project\proj.c
+	"proj.h"
+
+1672064264 source:d:\engineering data\1st year cse\1st semester\computer programming\matrix calculator\project\main.c
+	"proj.h"
+
+1672064240 d:\engineering data\1st year cse\1st semester\computer programming\matrix calculator\project\proj.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1674657559 source:d:\engineering data\1st year cse\1st semester\computer programming\matrix calculator\project\proj.c
+	"proj.h"
+
